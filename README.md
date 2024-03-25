@@ -1,6 +1,6 @@
 Hi, I’m @veronica-coulombe
 <br>
-I'm currently learning HTML Email Development!
+I'm currently learning Fullstack Development!
 <br>
 Projects on my Portfolio: (coming soon)
 <br>
