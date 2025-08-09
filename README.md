@@ -1,4 +1,4 @@
-Hi, I’m @veronica-coulombe
+Hi, I’m Veronica!
 <br>
 I'm currently learning Fullstack Development!
 <br>
