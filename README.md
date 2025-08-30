@@ -1,7 +1,7 @@
 Hi, I’m Veronica!
 <br>
 <br>
-I'm currently learning Data Science!
+I'm currently learning AI/ML!
 <br>
 <br>
 Projects on my Portfolio: (coming soon)
